@@ -5,7 +5,7 @@ body{
     height:100vh;
 }
 .container{
-    width:360px;
+    width:36vw;
     padding:33px;
     text-align:center;
     background-color: grey;
@@ -13,7 +13,7 @@ body{
     margin-top:5px;
 }
 input{
-    width:270px;
+    width:36vw;
     padding:8px;
     border:2px solid black;
     outline:none
